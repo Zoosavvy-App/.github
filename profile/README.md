@@ -1,5 +1,5 @@
 # ZooSavvy
-
+![Alt text](https://github.com/Zoosavvy-App/.github/blob/main/ImageProfile.png)
 ZooSavvy is an innovative mobile application designed to enhance the zoo experience for visitors by incorporating advanced technologies such as image recognition and chatbot interactions. The primary goal of ZooSavvy is to provide users with an engaging and educational platform that goes beyond traditional zoo visits.
 
 # Background
